@@ -40,7 +40,7 @@
       "depth": 1,
       "source": "registry",
       "dependencies": {
-        "com.unity.ext.nunit": "1.0.6"
+        "com.unity.ext.nunit": "1.0.7"
       },
       "url": "https://packages.unity.com"
     },
