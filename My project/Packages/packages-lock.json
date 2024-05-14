@@ -8,7 +8,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.editorcoroutines": {
-      "version": "1.0.8",
+      "version": "1.0.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {},
